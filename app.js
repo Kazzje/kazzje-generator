@@ -12,7 +12,7 @@ var users = require('./routes/users');
 const tmpDir = __dirname + '/tmp/';
 
 // canvas generator
-const CountdownGenerator = require('countdown-generator');
+const CountdownGenerator = require('kazzje-generator');
 
 var app = express();
 

@@ -1,5 +1,5 @@
 {
-  "name": "express-example",
+  "name": "kazzje-generator",
   "version": "3.10.10",
   "scripts": {
     "start": "node ./bin/www"
@@ -12,6 +12,7 @@
     "jade": "~1.11.0",
     "morgan": "~1.9.0",
     "serve-favicon": "~2.4.5",
-    "stylus": "0.54.5"
+    "stylus": "0.54.5",
+	"kazzje-generator": "3.10.10"
   }
 }
