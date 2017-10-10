@@ -1,11 +1,6 @@
 var express = require('express');
 var router = express.Router();
 
-const path = require('path');
-
-// canvas generator
-const CountdownGenerator = require('countdown-generator');
-
 router.get('/', function(req, res){
   res.render('index', {
     title: 'Home'
